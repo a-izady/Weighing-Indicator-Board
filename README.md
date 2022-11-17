@@ -1,6 +1,7 @@
 # Weighing-Indicator-Board
 Weigh bridge Indicator Board
 
+Altium Designer PCB
 
 
 ![Screenshot](PCB-pic.jpg)
